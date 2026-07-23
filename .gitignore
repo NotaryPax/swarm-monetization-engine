@@ -1,0 +1,8 @@
+# Security: Intelligence Data
+*.json
+*.log
+*.env
+*.key
+.hermes/
+cyberpunk_*/
+orchestrator.py
